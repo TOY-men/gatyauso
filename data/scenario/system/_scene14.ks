@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/back/residence.png"  ]
+[preload  storage="./data/bgimage/back/girl.room.png"  ]
+[preload  storage="./data/bgimage/back/park2.png"  ]
+[preload  storage="./data/bgimage/back/shopping2.png"  ]
+[preload  storage="./data/fgimage/default/CG/14_RaKa.png"  ]
+[return]

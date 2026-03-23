@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/back/kyoushitu.png"  ]
+[preload  storage="./data/bgimage/back/toshoshitu.hiru.png"  ]
+[preload  storage="./data/bgimage/back/rikashitu.png"  ]
+[preload  storage="./data/bgimage/back/toshoshitu.yugata.png"  ]
+[preload  storage="./data/fgimage/default/CG/09_Kaeru1.png"  ]
+[preload  storage="./data/fgimage/default/CG/09_Kaeru2.png"  ]
+[return]

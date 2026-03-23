@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/back/kyoushitu.png"  ]
+[preload  storage="./data/bgimage/back/nakaniwa.yuki.png"  ]
+[preload  storage="./data/fgimage/default/parts/KIRAx2.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[preload  storage="./data/fgimage/chara/4/Kb_sei-J.png"  ]
+[preload  storage="./data/fgimage/chara/5/Rb_sei-J.png"  ]
+[preload  storage="./data/fgimage/chara/6/Tb_sei-J.png"  ]
+[return]

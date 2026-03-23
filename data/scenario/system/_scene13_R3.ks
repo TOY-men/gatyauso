@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/back/cafe.yugata1.png"  ]
+[preload  storage="./data/bgimage/back/cafe.night.png"  ]
+[preload  storage="./data/bgimage/back/resting_room02.png"  ]
+[preload  storage="./data/bgimage/back/cafe.soto.night.png"  ]
+[preload  storage="./data/fgimage/default/CG/13_Raba.png"  ]
+[preload  storage="./data/bgimage/back/residence.night.png"  ]
+[return]

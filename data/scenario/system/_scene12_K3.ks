@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/back/ground.hiru.png"  ]
+[preload  storage="./data/bgimage/back/corridor_school02.png"  ]
+[preload  storage="./data/bgimage/back/hokenshitu.png"  ]
+[preload  storage="./data/fgimage/default/CG/12_Ikeko.png"  ]
+[preload  storage="./data/fgimage/default/CG/12_Kaeru.png"  ]
+[return]

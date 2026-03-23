@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/back/kyoushitu.png"  ]
+[preload  storage="./data/bgimage/back/ground.yugata.png"  ]
+[preload  storage="./data/fgimage/default/CG/03_Kaeru.png"  ]
+[preload  storage="./data/bgimage/back/nakaniwa.yugata.png"  ]
+[preload  storage="./data/fgimage/default/CG/03_menu.png"  ]
+[preload  storage="./data/bgimage/back/hokenshitu.yugata.png"  ]
+[return]

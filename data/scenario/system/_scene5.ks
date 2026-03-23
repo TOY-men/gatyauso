@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/back/home2.png"  ]
+[preload  storage="./data/bgimage/back/syoukouguchi.yugata.png"  ]
+[preload  storage="./data/bgimage/back/living2.png"  ]
+[preload  storage="./data/bgimage/back/genkan.yugata.png"  ]
+[preload  storage="./data/bgimage/back/home2.yugata.png"  ]
+[return]

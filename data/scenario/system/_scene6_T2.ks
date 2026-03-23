@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/back/kyoushitu.png"  ]
+[preload  storage="./data/bgimage/back/tuugakuro.yugata.png"  ]
+[preload  storage="./data/bgimage/back/conbini.tennai.png"  ]
+[preload  storage="./data/bgimage/back/conbini.yugata.png"  ]
+[preload  storage="./data/fgimage/default/CG/06_Tomas_1choco.png"  ]
+[preload  storage="./data/fgimage/default/CG/06_Tomas_2wasabi.png"  ]
+[preload  storage="./data/fgimage/default/CG/06_Tomas_3chips.png"  ]
+[return]
